@@ -1,6 +1,4 @@
-# 👨‍💻 Joseph Awuah Baffour
 
-Welcome to my GitHub! I'm a passionate Tech Innovator with a strong focus on AI/ML, sustainable development goals (SDGs), and building impactful solutions. Let's collaborate on projects that drive change and push boundaries.
 
 # 💫 About Me:
 🔭 I’m currently working on Helios Telegram Airdrop<br><br>🌱 I’m currently learning Vue.js and building on Reinforcement learning<br><br>👯 I’m looking to collaborate on Tech/AI for social impact Projects<br><br>💬 Ask me about Tech in SDG's, AI/ML ethics,Version Control and UI/UX Research.<br><br>📫 How to reach me jbawuah@pm.me<br><br>📄 Know about my experiences https://drive.google.com/file/d/1kcvyscfeZXJNmLUUuXtzrF-PudLClSwQ/view?usp=sharing<br><br>⚡ Fun fact I once built a startup with $0 in my pocket and ended up leading global tech initiatives—proof that passion and creativity can turn big dreams into reality!
