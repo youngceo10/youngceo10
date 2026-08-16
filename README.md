@@ -1,11 +1,11 @@
 # 💫 About Me
 
-🔭 **Leading & Building:** Executive Director at **Encode Africa** & **The Accelerators Program (TAP Africa)**  
-🌱 **Focus Areas:** Frontier AI Governance, AI Safety, and Policy Research  
-👯 **Collaborations:** Open to partnerships on AI Safety ecosystems, Tech for Social Impact, and Youth Innovation Fellowships  
+🔭 **Leading & Building:** Executive Director at [**Encode Africa**](https://encodessa.org/) & [**The Accelerators Program**](https://tap-africa.org/)  
+📍 **Focus Areas:** Technical AI Governance, AI Safety Field building, and Economics  
+🐾 **Collaborations:** Open to partnerships on AI Safety ecosystems, Tech for Social Impact, and Youth Innovation Fellowships  
 💬 **Ask Me About:** AI Governance & Ethics, Tech Policy, Regional AI Safety Capacity Building, and Open-Source Collaboration  
 📫 **Reach Me:** [jbawuah@pm.me](mailto:jbawuah@pm.me)  
-📄 **Resume / Portfolio:** [View Experience](https://drive.google.com/file/d/1kcvyscfeZXJNmLUUuXtzrF-PudLClSwQ/view?usp=sharing)  
+📄 **Resume / Portfolio:** [View Experience](https://joawuah.figma.site/)  
 
 ---
 
@@ -14,7 +14,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/youngceo)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@joawuah100)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/josephawuah)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/your-Joseph-Awuah)
 
 ---
 
@@ -23,9 +22,6 @@
 ### **AI / ML & Data**
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
 ### **Development & Web**
