@@ -1,31 +1,49 @@
+# 💫 About Me
+
+🔭 **Leading & Building:** Executive Director at **Encode Africa** & **The Accelerators Program (TAP Africa)**  
+🌱 **Focus Areas:** Frontier AI Governance, AI Safety, and Policy Research  
+👯 **Collaborations:** Open to partnerships on AI Safety ecosystems, Tech for Social Impact, and Youth Innovation Fellowships  
+💬 **Ask Me About:** AI Governance & Ethics, Tech Policy, Regional AI Safety Capacity Building, and Open-Source Collaboration  
+📫 **Reach Me:** [jbawuah@pm.me](mailto:jbawuah@pm.me)  
+📄 **Resume / Portfolio:** [View Experience](https://drive.google.com/file/d/1kcvyscfeZXJNmLUUuXtzrF-PudLClSwQ/view?usp=sharing)  
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/youngceo)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@joawuah100)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/josephawuah)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/your-Joseph-Awuah)
+
+---
+
+## 💻 Tech & Tools
+
+### **AI / ML & Data**
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+
+### **Development & Web**
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+### **Research, Design & Productivity**
+![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
-  <h1>Hi, I'm Joseph 👋</h1>
-  <p><strong>Undergrad in Political Science & Public Admin | AI Governance & Safety Ecosystem Builder</strong></p>
-
-  <p>
-    <a href="https://linkedin.com/in/youngceo"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://medium.com/@joawuah100"><img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white" alt="Medium" /></a>
-    <a href="https://www.kaggle.com/josephawuah"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
-    <a href="mailto:jbawuah@pm.me"><img src="https://img.shields.io/badge/ProtonMail-6D4AFF?style=flat-square&logo=protonmail&logoColor=white" alt="Email" /></a>
-  </p>
+  <img src="https://github-readme-stats.vercel.app/api?username=youngceo10&show_icons=true&theme=dark&hide_border=false" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youngceo10&theme=dark&hide_border=false&layout=compact" alt="Top Languages" />
 </div>
-
----
-
-### 🌐 Overview
-
-I operate at the intersection of **frontier AI governance, technical safety capacity-building, and public policy**. Currently driving initiatives across Africa to empower researchers, developers, and future leaders in responsible AI deployment.
-
-- 🏛️ **Leadership:** Executive Director at **Encode Africa** & **The Accelerators Program (TAP Africa)**
-- 🔍 **Research & Governance:** Technical AI Safety, Frontier AI Governance, and Tech Policy
-- 🤝 **Collaboration:** AI Safety fellowships, talent incubation, and regional capacity building
-- 💬 **Let's Discuss:** AI ethics, global south AI ecosystem development, and policy frameworks
-- 📄 **Curriculum Vitae:** [View Experience & Portfolio](https://drive.google.com/file/d/1kcvyscfeZXJNmLUUuXtzrF-PudLClSwQ/view?usp=sharing)
-
----
-
-### 🛠️ Core Toolkit
-
-**AI Safety, Data & Research**
-```text
-Python • PyTorch • scikit-learn • Pandas • NumPy • R • LaTeX
