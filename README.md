@@ -33,13 +33,3 @@
 ### **Research, Design & Productivity**
 ![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=youngceo10&show_icons=true&theme=dark&hide_border=false" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youngceo10&theme=dark&hide_border=false&layout=compact" alt="Top Languages" />
-</div>
